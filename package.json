@@ -1,0 +1,22 @@
+{
+    "name": "stygian",
+    "displayName": "Stygian",
+    "description": "Experience a stygian world on your editor",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "icon": "icon/Stygian.jpg",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "stygian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stygian-color-theme.json"
+            }
+        ]
+    }
+}
