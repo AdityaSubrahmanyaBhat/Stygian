@@ -7,13 +7,21 @@
         "vscode": "^1.60.0"
     },
     "icon": "icon/Stygian.jpg",
+    "author": {
+        "name": "Aditya Subrahmanya Bhat",
+        "email": "bhatadityasubrahmanya@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/AdityaSubrahmanyaBhat/Stygian",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "stygian",
+                "label": "Stygian",
                 "uiTheme": "vs-dark",
                 "path": "./themes/stygian-color-theme.json"
             }
