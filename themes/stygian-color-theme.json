@@ -20,9 +20,9 @@
 		"statusBar.background": "#202629",
 		"statusBar.foreground": "#61737c",
 		"titleBar.activeBackground": "#03141d",
-		// "menu.background": "#03141d",
-		// "menu.foreground": "#d7e1e6",
-		// "gitDecoration.modifiedResourceForeground": "#e2e496",
+		"menu.background": "#03141d",
+		"menu.foreground": "#d7e1e6",
+		"gitDecoration.modifiedResourceForeground": "#e2e496",
 		"gitDecoration.untrackedResourceForeground": "#67b96e",
 	},
 	"tokenColors": [
