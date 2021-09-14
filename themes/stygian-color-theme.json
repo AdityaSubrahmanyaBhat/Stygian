@@ -24,6 +24,7 @@
 		"menu.foreground": "#d7e1e6",
 		"gitDecoration.modifiedResourceForeground": "#e2e496",
 		"gitDecoration.untrackedResourceForeground": "#67b96e",
+		"welcomePage.background":"#03141d",
 	},
 	"tokenColors": [
 		{
