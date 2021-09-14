@@ -2,12 +2,12 @@
     "name": "stygian",
     "displayName": "Stygian",
     "description": "Experience the stygian world on your editor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.60.0"
     },
     "icon": "icon/Stygian.jpg",
-    "publisher":"AdityaSubrahmanyaBhat",
+    "publisher": "AdityaSubrahmanyaBhat",
     "author": {
         "name": "Aditya Subrahmanya Bhat",
         "email": "bhatadityasubrahmanya@gmail.com"
@@ -29,4 +29,3 @@
         ]
     }
 }
-
