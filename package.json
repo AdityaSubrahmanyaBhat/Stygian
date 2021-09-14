@@ -1,7 +1,7 @@
 {
     "name": "stygian",
     "displayName": "Stygian",
-    "description": "Experience a stygian world on your editor",
+    "description": "Experience the stygian world on your editor",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
